@@ -1,0 +1,13 @@
+{
+  "name": "hasflash",
+  "repo": "yields/hasflash",
+  "description": "Wether or not the browser has flash plugin enabled.",
+  "version": "0.0.1",
+  "keywords": ["flash", "hasflash"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
