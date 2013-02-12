@@ -2,7 +2,7 @@
   "name": "hasflash",
   "repo": "yields/hasflash",
   "description": "Whether or not the browser has flash plugin enabled.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": ["flash", "hasflash"],
   "dependencies": {},
   "development": {},
