@@ -14,7 +14,7 @@ var mime = navigator.mimeTypes.length
   && navigator.mimeTypes['application/x-shockwave-flash'];
 
 /**
- * Wether or not the browser has
+ * Whether or not the browser has
  * flash plugin enabled.
  *
  * @return {bool}

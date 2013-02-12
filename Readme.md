@@ -1,7 +1,7 @@
 
 # hasflash
 
-  Wether or not the browser has flash plugin enabled.
+  Whether or not the browser has flash plugin enabled.
 
 ## Installation
 
